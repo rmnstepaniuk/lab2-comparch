@@ -1,0 +1,1 @@
+int pythagoras(double a, double b);

@@ -1,0 +1,4 @@
+F:/KPI/AK/lab2/build/CMakeFiles/pythagoras.dir
+F:/KPI/AK/lab2/build/CMakeFiles/run.dir
+F:/KPI/AK/lab2/build/CMakeFiles/edit_cache.dir
+F:/KPI/AK/lab2/build/CMakeFiles/rebuild_cache.dir

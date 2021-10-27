@@ -1,0 +1,5 @@
+# ninja log v5
+1	2030	6570729379343798	CMakeFiles/pythagoras.dir/src/pythagoras.cpp.obj	dbb3434a8b0b509a
+2032	3898	6570729398142796	libpythagoras.a	6c4b0cd3dc79ad6b
+85	4059	6570729399741288	CMakeFiles/run.dir/src/main.cpp.obj	30febdc73434a440
+4062	4890	6570729407941404	run.exe	8dc98533899bc714
